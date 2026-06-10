@@ -1,5 +1,5 @@
 # Day 1 - Arithmetic Operations 
-# Problem: Print, sum, difference, product
+# Problem: Print, sum, difference, product 
 
 a = int(input())
 b = int(input())
