@@ -11,3 +11,6 @@ for _ in range(n):
 
 # The size of the set represents the number of distinct stamps
 print(len(country_set))
+
+
+
