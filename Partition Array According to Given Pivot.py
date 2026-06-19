@@ -19,3 +19,4 @@ class Solution(object):
         
         # Combine the lists in order: less, equal, then greater
         return less + equal + greater
+
