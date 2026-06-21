@@ -34,3 +34,4 @@ class Solution(object):
             
         # The head of the merged list is the node next to the dummy node
         return dummy.next
+
