@@ -11,3 +11,4 @@ class Solution(object):
             n //= 4
             
         return n == 1
+
