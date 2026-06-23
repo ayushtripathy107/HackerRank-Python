@@ -13,3 +13,4 @@ class Solution(object):
             total_time += max(abs(p2[0] - p1[0]), abs(p2[1] - p1[1]))
             
         return total_time
+
